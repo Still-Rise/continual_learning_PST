@@ -1,9 +1,7 @@
 """
-Author: anonymous
+Author: Xiaocong Du
 Description: 
-Supplementary material for NeurIPS2019 paper submission
 Title: Single-Net Continual Learning with Progressive Segmented Training (PST)
-Submisstion ID: 2994
 """
 
 import os
