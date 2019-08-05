@@ -1,8 +1,6 @@
 # Single-Net Continual Learning with Progressive Segmented Training (PST)
 
-### This is the code to reproduce the results in paper 'Single-Net Continual Learning with Progressive Segmented Training (PST)
-
-### Submission ID: 2994
+### This is the code to reproduce the results in paper [Single-Net Continual Learning with Progressive Segmented Training (PST)](https://arxiv.org/abs/1905.11550)
 
 ### Enviroments:
 
