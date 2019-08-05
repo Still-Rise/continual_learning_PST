@@ -1,0 +1,26 @@
+# command
+# pip install -r requirement.txt
+# pytorch
+torch==1.0.1.post2
+torchvision==0.2.2.post3
+torchtext==0.1.1
+# visdom==0.1.8.8
+
+# data
+scipy
+scikit-learn
+numpy
+pillow
+matplotlib
+
+# utils (debugging)
+pdbpp
+ipdb
+ipython
+
+# utils (others)
+colorama
+tqdm
+lmdb
+requests
+fake-useragent
